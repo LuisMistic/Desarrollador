@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Desarrollador';
+  public title = 'Aprendiendo a usar mi primer proyecto en Angular';
 }
